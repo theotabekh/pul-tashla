@@ -22,16 +22,16 @@ logging.basicConfig(
 # ================================================================
 #  ⚙️  SOZLAMALAR — shu joyni o'zgartiring
 # ================================================================
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"          # @BotFather dan oling
-ADMIN_IDS = [123456789]                     # Sizning Telegram ID'ingiz
+BOT_TOKEN = "8926329145:AAHnGeLP7IUWZvEyluL2T7v0KHAJEZr7eCY"          # @BotFather dan oling
+ADMIN_IDS = [8299430341]                     # Sizning Telegram ID'ingiz
 AUTO_THRESHOLD = 500_000                    # So'm — shu summadan past = avtomatik
 
 # To'lov rekvizitlari
-CLICK_CARD   = "8600 1234 5678 9012"
-PAYME_CARD   = "8600 1234 5678 9012"
+CLICK_CARD   = "9860 1401 1838 2781"
+Viza_CARD   = "4916 9903 1817 1755"
 USDT_WALLET  = "TXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
-USDT_RATE    = 12_700                       # 1 USDT = ... so'm (yangilab turing)
-ADMIN_USERNAME = "@admin_username"          # Yordam uchun admin
+USDT_RATE    = 11_979                       # 1 USDT = ... so'm (yangilab turing)
+ADMIN_USERNAME = "@otabek_qadamovv"          # Yordam uchun admin
 
 # ================================================================
 #  🎮  O'YINLAR VA PAKETLAR
@@ -42,12 +42,12 @@ GAMES = {
         "id_label": "PUBG Player ID",
         "id_hint": "Misol: 5123456789",
         "packages": [
-            {"label": "60 UC",   "price": 15_000},
-            {"label": "300 UC",  "price": 70_000},
-            {"label": "600 UC",  "price": 135_000},
-            {"label": "1500 UC", "price": 330_000},
-            {"label": "3000 UC", "price": 650_000},
-            {"label": "6000 UC", "price": 1_290_000},
+            {"label": "60 UC",   "price": 17_000},
+            {"label": "300 UC",  "price": 78_000},
+            {"label": "600 UC",  "price": 142_000},
+            {"label": "1500 UC", "price": 345_000},
+            {"label": "3000 UC", "price": 665_000},
+            {"label": "6000 UC", "price": 1_300_000},
         ],
     },
     "steam": {
